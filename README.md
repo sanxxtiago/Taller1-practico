@@ -64,7 +64,7 @@ Taller1-Practico
 ## 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/USUARIO/Taller1-Practico
+git clone https://github.com/sanxxtiago/Taller1-Practico
 ```
 
 ---
